@@ -9,7 +9,7 @@ const RightSideNav = () => {
     return (
         <div>
             <ButtonGroup vertical>
-                <Button className="" variant="primary"><FaGoogle></FaGoogle>Login With Google</Button>
+                <Button className="mb-1" variant="primary"><FaGoogle></FaGoogle>Login With Google</Button>
                 <Button variant="dark"><FaGithub></FaGithub>Login With Github</Button>
             </ButtonGroup>
             <div className='mt-4'>
